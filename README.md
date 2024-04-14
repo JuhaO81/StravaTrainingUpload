@@ -1,4 +1,6 @@
 # StravaTrainingUpload
+Simple Python script based tool to upload all your trainings to Strava. 
+
 ## Needed tools
 - Python
 - Python request "pip install requests"
