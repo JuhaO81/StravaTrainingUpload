@@ -21,4 +21,4 @@
      ![image](https://github.com/JuhaO81/StravaTrainingUpload/assets/29195184/f695b61d-4565-44aa-99e7-6cbca4c72aee)
 
 
-Credits: Juha Oravainen 
+Contact: juhao81@gmail.com
