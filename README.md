@@ -12,9 +12,11 @@
    * stravaGetTokenAndUpload.py is not supportin json format that Polar outputs so you need to convert to fit files using this tool: https://www.tredict.com/polarjson2fit-converter/
    * https://support.polar.com/en/how-to-download-all-your-data-from-polar-flow
 
-## Running the script
+## Uploading to Strava
 - Open Command Promt
 - type command: python stravaGetTokenAndUpload.py
 - Follow instructions from script
+   * Files can be placed to folder next to script ![image](https://github.com/JuhaO81/StravaTrainingUpload/assets/29195184/f695b61d-4565-44aa-99e7-6cbca4c72aee)
+
 
 Credits: Juha Oravainen 
