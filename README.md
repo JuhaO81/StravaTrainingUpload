@@ -11,9 +11,9 @@ Simple Python script based tool to upload all your trainings to Strava. Strava w
 - Open Command Prompt
 - type command: python stravaGetTokenAndUpload.py
 - Follow instructions from script
+   * Supported files are: fit, fit.gz, tcx, tcx.gz, gpx, gpx.gz.
+   * Only one type of files per upload.
    * Files to be uploaded can be placed to folder next to script
-   * Supported files are: fit, fit.gz, tcx, tcx.gz, gpx, gpx.gz
-   * Only one type of files per upload. 
      
      ![image](https://github.com/JuhaO81/StravaTrainingUpload/assets/29195184/f695b61d-4565-44aa-99e7-6cbca4c72aee)
 
