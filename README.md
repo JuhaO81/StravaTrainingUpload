@@ -1,5 +1,5 @@
 # StravaTrainingUpload
-Simple Python script based tool to upload all your trainings to Strava. 
+Simple Python script based tool to upload all your trainings to Strava. Strava web client allows to upload only small amount of files per day and this script fixes that issue. Please note that Strava will still set some limitations to API usage. Check your limits from https://www.strava.com/settings/api. I was able to upload 200 files every 15 minutes.
 
 # Needed tools
 - Install these tools if needed
@@ -12,6 +12,7 @@ Simple Python script based tool to upload all your trainings to Strava.
 - type command: python stravaGetTokenAndUpload.py
 - Follow instructions from script
    * Files to be uploaded can be placed to folder next to script
+
      
      ![image](https://github.com/JuhaO81/StravaTrainingUpload/assets/29195184/f695b61d-4565-44aa-99e7-6cbca4c72aee)
 
